@@ -5,7 +5,7 @@
   "type": "module",
   "main": "problem2.js",
   "scripts": {
-    "start": "nodemon problem2.js"
+    "start": "node problem2.js"
   },
   "keywords": [],
   "author": "",
